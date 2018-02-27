@@ -1,0 +1,12 @@
+[My Computer]
+My Computer = "172.25.215.130"
+
+[RT CompactRIO Target]
+RT CompactRIO Target = "192.168.100.6"
+
+[RT CompactRIO Target 2]
+RT CompactRIO Target 2 = "0.0.0.0"
+
+[SMSL-Drill]
+SMSL-Drill = "192.168.100.6"
+
